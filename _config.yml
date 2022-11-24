@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Your Sidebar Name"
-  avatar           : #"profile.png"
+  name             : "Francesco Ruggieri"
+  avatar           : "profile.jpg"
   bio              : "Economics Ph.D. Candidate at the University of Chicago"
   location         : "Chicago, IL"
   employer         :
