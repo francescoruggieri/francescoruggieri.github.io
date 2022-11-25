@@ -12,8 +12,7 @@ author_profile: true
 In Winter 2022, I taught **Honors Econometrics** (ECON 21030) at the University of Chicago.<br/>
 [[Evaluations](/files/21030TeachingEvaluations.pdf)]
 
-![21030](/files/21030ClassPic.jpg)
-
+![21030](/files/21030ClassPic.jpg)<br/>
 In alphabetical order: *Samuel Abers, Matthew Benavides, Jimin Han, Jeremy Huang, Tianchong Jiang, Arjun Kilaru, Devesh Kodnani, Michael Lee, Preston Lee, Rachel Li, Chris Liao, Nathan Peng, Jim Royal, Noah Sobel-Lewin, Jayson Song, Andrew Wu, Raymon Yue, Su Zeybek, Tianyi Zhang, Yuerong Zhuang*.
 
 In Spring 2021, I taught **Econometrics** (ECON 21020) at the University of Chicago.<br/>
@@ -21,6 +20,8 @@ In Spring 2021, I taught **Econometrics** (ECON 21020) at the University of Chic
 
 
 ## Teaching Assistant
+
+### University of Chicago
 
 Winter 2021: **Honors Econometrics** (undergraduate), for [Alexander Torgovitsky](https://a-torgovitsky.github.io/)
 
@@ -31,6 +32,10 @@ Spring 2020: **Honors Econometrics** (undergraduate), for [Peter Hull](https://s
 Winter 2020: **Honors Econometrics** (undergraduate), for [Alexander Torgovitsky](https://a-torgovitsky.github.io/)
 
 Autumn 2019: **Econometrics** (undergraduate) for [Christopher Roark](https://www.sites.google.com/site/christopherjamesroark/home?pli=1)
+
+### London School of Economics
+
+Lent 2016: **Microeconomic Principles** (undergraduate) for [Erik Eyster](https://econ.ucsb.edu/people/faculty/erik-eyster)
 
 ## Awards
 
