@@ -27,11 +27,11 @@ Winter 2021: *Honors Econometrics* (undergraduate), for [Alexander Torgovitsky](
 Autumn 2020: *Applied Microeconometrics* (graduate), for [Alexander Torgovitsky](https://a-torgovitsky.github.io/)<br/>
 Spring 2020: *Honors Econometrics* (undergraduate), for [Peter Hull](https://sites.google.com/site/aboutpeterhull/home)<br/>
 Winter 2020: *Honors Econometrics* (undergraduate), for [Alexander Torgovitsky](https://a-torgovitsky.github.io/)<br/>
-Autumn 2019: *Econometrics* (undergraduate) for [Christopher Roark](https://www.sites.google.com/site/christopherjamesroark/home?pli=1)
+Autumn 2019: *Econometrics* (undergraduate), for [Christopher Roark](https://www.sites.google.com/site/christopherjamesroark/home?pli=1)
 
 ### London School of Economics and Political Science
 
-Lent 2016: *Microeconomic Principles* (undergraduate) for [Erik Eyster](https://econ.ucsb.edu/people/faculty/erik-eyster)
+Lent 2016: *Microeconomic Principles* (undergraduate), for [Erik Eyster](https://econ.ucsb.edu/people/faculty/erik-eyster)
 
 ## Awards
 
