@@ -39,6 +39,6 @@ Lent 2016: **Microeconomic Principles** (undergraduate) for [Erik Eyster](https:
 
 ## Awards
 
-In the 2021/22 academic year, I was awarded the [Outstanding Undergraduate Teaching Award](XXX) by the Kenneth C. Griffin Department of Economics at the University of Chicago.
+In the 2021/22 academic year, I was a solo recipient of the [Outstanding Undergraduate Teaching Award](https://economics.uchicago.edu/blog/2021-student-award-recipients) at the Kenneth C. Griffin Department of Economics at the University of Chicago.
 
-In the 2015/16 academic year, I was awarded the [Teaching Award for Excellent Feedback and Communication](https://www.lse.ac.uk/economics/Assets/Documents/EAR/economics-annual-review-20152016.pdf) by the London School of Economics and Political Science.
+In the 2015/16 academic year, I was a solo recipient of the [Teaching Award for Excellent Feedback and Communication](https://www.lse.ac.uk/economics/Assets/Documents/EAR/economics-annual-review-20152016.pdf) at the London School of Economics and Political Science.
