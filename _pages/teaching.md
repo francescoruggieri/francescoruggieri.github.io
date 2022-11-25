@@ -21,7 +21,7 @@ In Spring 2021, I taught **Econometrics** (ECON 21020) at the University of Chic
 
 ## Teaching Assistant
 
-### University of Chicago
+### University of Chicago <br/>
 
 Winter 2021: **Honors Econometrics** (undergraduate), for [Alexander Torgovitsky](https://a-torgovitsky.github.io/)
 
@@ -33,7 +33,7 @@ Winter 2020: **Honors Econometrics** (undergraduate), for [Alexander Torgovitsky
 
 Autumn 2019: **Econometrics** (undergraduate) for [Christopher Roark](https://www.sites.google.com/site/christopherjamesroark/home?pli=1)
 
-### London School of Economics
+### London School of Economics<br/>
 
 Lent 2016: **Microeconomic Principles** (undergraduate) for [Erik Eyster](https://econ.ucsb.edu/people/faculty/erik-eyster)
 
