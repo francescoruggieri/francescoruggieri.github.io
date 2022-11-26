@@ -31,7 +31,7 @@ Autumn 2019: *Econometrics* (undergraduate), for [Christopher Roark](https://www
 
 ### London School of Economics and Political Science
 
-Lent 2016: *Microeconomic Principles* (undergraduate), for [Erik Eyster](https://econ.ucsb.edu/people/faculty/erik-eyster)
+Lent 2016: *Microeconomic Principles* (undergraduate), for [Erik Eyster](https://econ.ucsb.edu/people/faculty/erik-eyster).
 
 ## Awards
 
