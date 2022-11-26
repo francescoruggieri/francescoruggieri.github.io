@@ -23,11 +23,11 @@ In Spring 2021, I taught *Econometrics* (ECON 21020) at the University of Chicag
 
 ### University of Chicago
 
-Winter 2021: *Honors Econometrics* (undergraduate), for [Alexander Torgovitsky](https://a-torgovitsky.github.io/)<br/>
-Autumn 2020: *Applied Microeconometrics* (graduate), for [Alexander Torgovitsky](https://a-torgovitsky.github.io/)<br/>
-Spring 2020: *Honors Econometrics* (undergraduate), for [Peter Hull](https://sites.google.com/site/aboutpeterhull/home)<br/>
-Winter 2020: *Honors Econometrics* (undergraduate), for [Alexander Torgovitsky](https://a-torgovitsky.github.io/)<br/>
-Autumn 2019: *Econometrics* (undergraduate), for [Christopher Roark](https://www.sites.google.com/site/christopherjamesroark/home?pli=1)
+Winter 2021: *Honors Econometrics* (undergraduate), for [Alex Torgovitsky](https://a-torgovitsky.github.io/). [[Evaluations](/files/TA_Winter2021_21030.pdf)]<br/>
+Autumn 2020: *Applied Microeconometrics* (graduate), for [Alex Torgovitsky](https://a-torgovitsky.github.io/).<br/>
+Spring 2020: *Honors Econometrics* (undergraduate), for [Peter Hull](https://sites.google.com/site/aboutpeterhull/home). [[Evaluations](/files/TA_Spring2020_21030.pdf)]<br/>
+Winter 2020: *Honors Econometrics* (undergraduate), for [Alex Torgovitsky](https://a-torgovitsky.github.io/). [[Evaluations](/files/TA_Winter2020_21030.pdf)]<br/>
+Autumn 2019: *Econometrics* (undergraduate), for [Christopher Roark](https://www.sites.google.com/site/christopherjamesroark/home?pli=1). [[Evaluations](/files/TA_Fall2019_21020.pdf)]
 
 ### London School of Economics and Political Science
 
