@@ -20,7 +20,7 @@ Week 5: [Borusyak, Jaravel, and Spiess (2022)](/files/DiDES05_BorusyakJaravelSpi
 
 ## Structural Econometrics Methods
 
-In Spring 2020, I organized a student reading group to explore common methods for the estimation of structural parameters.
+In Spring 2020, I organized a student reading group to explore commonly used methods for the estimation of structural parameters.
 
 Week 1: [Method of Maximum Simulated Likelihood](/files/StructuralMetrics01_MaxSimLik.pdf)<br/>
 Week 2: [Method of Simulated Moments](/files/StructuralMetrics02_MethSimMoms.pdf), by [Olivia Bordeu](https://www.oliviabordeu.com/) and [Lillian Rusk](https://twitter.com/lillianrusk?lang=en)<br/>
