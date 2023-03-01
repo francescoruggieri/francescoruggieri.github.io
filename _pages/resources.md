@@ -7,9 +7,9 @@ author_profile: true
 
 
 
-## Difference-in-Differences
+## Difference-in-Differences Designs
 
-In Spring 2022, I organized a student reading group centered around recent advances in the literature on difference-in-differences designs.
+In Spring 2022, I organized a student reading group to explore recent advances in the literature on difference-in-differences designs.
 
 Week 1: [Introduction](/files/DiDES01_Intro.pdf)<br/>
 Week 2: [Goodman-Bacon (2021)](/files/DiDES02_GoodmanBacon.pdf), by [Colin Aitken](https://mathematics.uchicago.edu/people/profile/colin-aitken1/)<br/>
@@ -18,9 +18,9 @@ Week 4: [Callaway and Sant'Anna (2021)](/files/DiDES04_CallawaySantAnna.pdf), by
 Week 5: [Borusyak, Jaravel, and Spiess (2022)](/files/DiDES05_BorusyakJaravelSpiess.pdf), by [Sasha Petrov](https://economics.uchicago.edu/directory/sasha-petrov)<br/>
 
 
-## Methods in Structural Econometrics
+## Structural Econometrics Methods
 
-In Spring 2020, I organized a student reading group centered around recent advances in the literature on difference-in-differences designs.
+In Spring 2020, I organized a student reading group to explore common methods for the estimation of structural parameters.
 
 Week 1: [Method of Maximum Simulated Likelihood](/files/StructuralMetrics01_MaxSimLik.pdf)<br/>
 Week 2: [Method of Simulated Moments](/files/StructuralMetrics02_MethSimMoms.pdf), by [Olivia Bordeu](https://www.oliviabordeu.com/) and [Lillian Rusk](https://twitter.com/lillianrusk?lang=en)<br/>
