@@ -27,6 +27,6 @@ Week 2: [Method of Simulated Moments](/files/StructuralMetrics02_MethSimMoms.pdf
 Week 3: [Nonparametric Demand Estimation](/files/StructuralMetrics03_NonParamDem.pdf), by [Nadav Kunievsky](https://economics.uchicago.edu/directory/nadav-kunievsky) <br/>
 Week 4: [Shift-Share Designs](https://ucfba0ab6b8f8c56d0213b859582.dl.dropboxusercontent.com/cd/0/inline2/B3ZgadoHjiIh2M_rbD9hjEJjQmmRqY3FnHtm5F-Y_IoAe2jDeNZJQkvou2xXhnH-f3uUjsvL-TrFOMvDqImY3cAScrKPQHoVJg34QEgNBsNfoI5xw642H9H7QT-VwmHd2OuJ3rtznSMyr5yQ-3Nhz4rFl_QEy3P8fkjk34q51kDCENm0bIZDg99WfB1ulBcv9TvaGNYbW-EmyfztKV3PwqcPIjeebP96BNEIBPOHTawgCxTeQJiRNIr9Sud26g1iuZnHGRb7AGPmsUPjmbDp3WGI-KY6PTo2j8UvmldDZ4goIVmO8yNYHMU0BCRQdmgqb-Zww-US8mzIC3meFVM7c25MJ2NOOFpYwTT2W3mJpAfmMTRtf779OsgyByw3QfhX83Ho84V_9fIUJCvF4Y8nkR77aNirwTCtLTyt4CbxYJjj0w/file), by [Peter Hull](https://sites.google.com/site/aboutpeterhull/home) <br/>
 Week 5: [Bunching Designs](/files/StructuralMetrics05_Bunching.pdf), by [Shanon Hsuan-Ming Hsu](https://economics.uchicago.edu/directory/shanon-hsuan-ming-hsu) <br/>
-Week 6: [Heathcote, Storesletten, and Violante (2014)](/files/StructuralMetrics06_ConsLabSup.pdf.pdf), by [Thomas Bourany](https://thomasbourany.github.io/publications/)<br/>
+Week 6: [Heathcote, Storesletten, and Violante (2014)](/files/StructuralMetrics06_ConsLabSup.pdf), by [Thomas Bourany](https://thomasbourany.github.io/publications/)<br/>
 
 
