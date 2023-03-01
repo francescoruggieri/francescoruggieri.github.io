@@ -6,7 +6,6 @@ author_profile: true
 {% include base_path %}
 
 
-
 ## Difference-in-Differences Designs
 
 In Spring 2022, I organized a student reading group to explore recent advances in the literature on difference-in-differences designs.

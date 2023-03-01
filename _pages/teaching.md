@@ -6,7 +6,6 @@ author_profile: true
 {% include base_path %}
 
 
-
 ## Lecturer 
 
 In Winter 2022, I taught *Honors Econometrics* (ECON 21030) at the University of Chicago.<br/>
