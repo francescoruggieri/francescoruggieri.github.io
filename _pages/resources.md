@@ -7,14 +7,14 @@ author_profile: true
 
 
 
-## Difference-in-Differences and Event Studies
+## Difference-in-Differences
 
 In Spring 2022, I organized a student reading group centered around recent advances in the literature on difference-in-differences designs.
 
 Week 1: [Introduction](/files/DiDES01_Intro.pdf)<br/>
 Week 2: [Goodman-Bacon (2021)](/files/DiDES02_GoodmanBacon.pdf), by [Colin Aitken](https://mathematics.uchicago.edu/people/profile/colin-aitken1/)<br/>
 Week 3: [Sun and Abraham (2021)](/files/DiDES03_SunAbraham.pdf)], by [Myungkou Shin](https://myungkoushin.com/)<br/>
-Week 4: [Callaway and Sant'Anna (2021)](/files/DiDES04_CallawaySantAnna.pdf)])], by [Jonas Lieber](https://jonaslieber.com/)<br/>
+Week 4: [Callaway and Sant'Anna (2021)](/files/DiDES04_CallawaySantAnna.pdf)], by [Jonas Lieber](https://jonaslieber.com/)<br/>
 Week 5: [Borusyak, Jaravel, and Spiess (2022)](/files/DiDES05_BorusyakJaravelSpiess.pdf), by [Sasha Petrov](https://economics.uchicago.edu/directory/sasha-petrov)<br/>
 
 
