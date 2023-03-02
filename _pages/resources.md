@@ -16,7 +16,7 @@ Week 3: [Sun and Abraham (2021)](/files/DiDES03_SunAbraham.pdf), by [Myungkou Sh
 Week 4: [Callaway and Sant'Anna (2021)](/files/DiDES04_CallawaySantAnna.pdf), by [Jonas Lieber](https://jonaslieber.com/)<br/>
 Week 5: [Borusyak, Jaravel, and Spiess (2022)](/files/DiDES05_BorusyakJaravelSpiess.pdf), by [Sasha Petrov](https://economics.uchicago.edu/directory/sasha-petrov)
 
-I also presented and discussed two recent papers in our Econometrics Advising Group.
+I also presented and discussed two recent papers in our Econometrics Advising Group.<br/>
 * [de Chaisemartin and D'Haultfoeuille (2018), Fuzzy Difference-in-Differences](/files/MetricsAdvising_FuzzyDID.pdf)
 * [The Common Trends Restriction and Dynamic Models of Economic Choice: a Reconciliation](/files/MetricsAdvising_CommonTrendsSelection.pdf)
 
