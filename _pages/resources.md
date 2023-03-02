@@ -17,7 +17,7 @@ Week 4: [Callaway and Sant'Anna (2021)](/files/DiDES04_CallawaySantAnna.pdf), by
 Week 5: [Borusyak, Jaravel, and Spiess (2022)](/files/DiDES05_BorusyakJaravelSpiess.pdf), by [Sasha Petrov](https://economics.uchicago.edu/directory/sasha-petrov)
 
 I also presented and discussed two related papers in our Econometrics Advising Group. <br/>
-* [de Chaisemartin and D'Haultf&oelig;uille (2018), Fuzzy Difference-in-Differences](/files/MetricsAdvising_FuzzyDID.pdf)
+* [de Chaisemartin and D'Haultf &oelig; uille (2018), Fuzzy Difference-in-Differences](/files/MetricsAdvising_FuzzyDID.pdf)
 * [The Common Trends Restriction and Dynamic Models of Economic Choice: a Reconciliation](/files/MetricsAdvising_CommonTrendsSelection.pdf)
 
 
