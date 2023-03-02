@@ -14,7 +14,12 @@ Week 1: [Introduction](/files/DiDES01_Intro.pdf)<br/>
 Week 2: [Goodman-Bacon (2021)](/files/DiDES02_GoodmanBacon.pdf), by [Colin Aitken](https://mathematics.uchicago.edu/people/profile/colin-aitken1/)<br/>
 Week 3: [Sun and Abraham (2021)](/files/DiDES03_SunAbraham.pdf), by [Myungkou Shin](https://myungkoushin.com/)<br/>
 Week 4: [Callaway and Sant'Anna (2021)](/files/DiDES04_CallawaySantAnna.pdf), by [Jonas Lieber](https://jonaslieber.com/)<br/>
-Week 5: [Borusyak, Jaravel, and Spiess (2022)](/files/DiDES05_BorusyakJaravelSpiess.pdf), by [Sasha Petrov](https://economics.uchicago.edu/directory/sasha-petrov)<br/>
+Week 5: [Borusyak, Jaravel, and Spiess (2022)](/files/DiDES05_BorusyakJaravelSpiess.pdf), by [Sasha Petrov](https://economics.uchicago.edu/directory/sasha-petrov)
+
+I also presented and discussed two recent papers during our student-faculty Econometrics Advising Group.
+
+[Fuzzy Difference-in-Differences (2018)](/files/MetricsAdvising_FuzzyDID.pdf)<br/>
+[The Common Trends Restriction and Dynamic Models of Economic Choice: a Reconciliation](/files/MetricsAdvising_CommonTrendsSelection.pdf)<br/>
 
 
 ## Structural Econometrics Methods
