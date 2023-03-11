@@ -8,13 +8,13 @@ author_profile: true
 
 ## Lecturer 
 
-In Winter 2022, I taught *Honors Econometrics* (ECON 21030) at the University of Chicago.<br/>
+In Winter 2022, I taught *Honors Econometrics* at the University of Chicago.<br/>
 [[Evaluations](/files/21030TeachingEvaluations.pdf)]
 
 ![21030](/files/21030ClassPic.jpg)<br/>
 In alphabetical order: *Samuel Abers, Matthew Benavides, Jimin Han, Jeremy Huang, Tianchong Jiang, Arjun Kilaru, Devesh Kodnani, Michael Lee, Preston Lee, Rachel Li, Chris Liao, Nathan Peng, Jim Royal, Noah Sobel-Lewin, Jayson Song, Andrew Wu, Raymon Yue, Su Zeybek, Tianyi Zhang, Yuerong Zhuang*.
 
-In Spring 2021, I taught *Econometrics* (ECON 21020) at the University of Chicago.<br/>
+In Spring 2021, I taught *Econometrics* at the University of Chicago.<br/>
 [[Evaluations](/files/21020TeachingEvaluations.pdf)]
 
 
