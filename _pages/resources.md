@@ -35,7 +35,7 @@ In Spring 2020, I organized a student reading group to explore commonly used met
 
 ## Applied Microeconometrics
 
-In Autumn 2020, I held weekly sessions in the second-year Ph.D. course Applied Microeconometrics, taught by [Alex Torgovitsky](https://a-torgovitsky.github.io/).
+In Autumn 2020, I held weekly discussion sections in the second-year Ph.D. course Applied Microeconometrics, taught by [Alex Torgovitsky](https://a-torgovitsky.github.io/).
 
 1. [Tools and Frameworks for Causal Inference](/files/31720_TA01.pdf)<br/>
 2. [Selection on Observables: Theory](/files/31720_TA02.pdf)<br/>
