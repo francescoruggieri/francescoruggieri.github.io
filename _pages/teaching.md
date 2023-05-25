@@ -35,7 +35,7 @@ In Spring 2021, I taught *Econometrics*. [[Evaluations](/files/21020TeachingEval
 
 ## Awards
 
-In the 2022/23 academic year, I was awarded the [Wayne C. Booth Graduate Student Prize for Excellence in Teaching](https://www.uchicago.edu/who-we-are/global-impact/accolades/wayne-c-booth-graduate-student-prizes-for-excellence-in-teaching) by the University of Chicago.
+In the 2022/23 academic year, I was awarded the [Wayne C. Booth Graduate Student Prize for Excellence in Teaching](https://college.uchicago.edu/news/uchicago-instructors-grad-students-honored-exemplary-teaching) by the University of Chicago.
 
 In the 2020/21 academic year, I was a recipient of the [Outstanding Undergraduate Teaching Award](https://economics.uchicago.edu/blog/2021-student-award-recipients) conferred by the Kenneth C. Griffin Department of Economics at the University of Chicago.
 
