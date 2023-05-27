@@ -4,8 +4,8 @@ title: "Francesco Ruggieri"
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about_old/
+  - /about_old.html
 ---
 
 
