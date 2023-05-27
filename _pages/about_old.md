@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about_old/
 title: "Francesco Ruggieri"
 excerpt: ""
 author_profile: true
