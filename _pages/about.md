@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in the Department of Economics at the University of Chicago.
+I am a Ph.D. Candidate in the Department of Economics at the University of Chicago.
 
 My research focuses on topics in public and urban economics. I also develop methods for the identification and estimation of causal parameters with a clear economic interpretation.
 
