@@ -14,3 +14,5 @@ I am a pre-job-market Postdoctoral Scholar in the Kenneth C. Griffin Department 
 My research focuses on topics in public and urban economics. I also develop methods for the identification and estimation of causal parameters with a clear economic interpretation.
 
 I hold a bachelor's degree in Economics from Universit&agrave; Bocconi and a master's degree in Economics from the London School of Economics and Political Science.
+
+A copy of my Curriculum Vitae can be found [here](/files/CV_FrancescoRuggieri.pdf)
