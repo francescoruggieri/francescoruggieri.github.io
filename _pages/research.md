@@ -17,3 +17,20 @@ Local governments in the United States are vertically differentiated. A typical 
 [**Dynamic Regression Discontinuity: A Within-Design Approach**](/files/DynDisc.pdf) [[arXiv](https://arxiv.org/abs/2307.14203)]
 
 [**The Geography of the U.S. Property Tax**](/files/GeographyPropTax.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4808970)]
+
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+
+
