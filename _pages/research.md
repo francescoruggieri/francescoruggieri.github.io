@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-[**A Spatial Theory of Overlapping Local Governments**](/files/OverlappingGovernments_v3.pdf) [<a href="#/" onclick="visib('spatialtheory')">Abstract</a>] [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4808965)]
+[**A Spatial Theory of Overlapping Local Governments**](/files/OverlappingGovernments_v3.pdf) [<a href="#/" onclick="visib('spatialtheory')">Abstract</a>] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4808965)]
 
 <div id="spatialtheory" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
