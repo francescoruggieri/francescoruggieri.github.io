@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/profile.jpg" width="280">
+<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/profile.JPG" width="280">
 
 I am a pre-job-market Postdoctoral Scholar in the Kenneth C. Griffin Department of Economics at the University of Chicago, where I completed my Ph.D. in 2024.
 
