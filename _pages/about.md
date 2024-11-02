@@ -14,4 +14,4 @@ I am a pre-job-market Postdoctoral Scholar in the Kenneth C. Griffin Department 
 
 My research focuses on topics in public finance and urban economics. I also develop methods for the identification and estimation of causal parameters with a clear economic interpretation.
 
-A copy of my Curriculum Vitae can be found [here](/files/CV_FrancescoRuggieri.pdf).
+My email address is [ruggieri@uchicago.edu](mailto:ruggieri@uchicago.edu). A copy of my Curriculum Vitae can be found [here](/files/CV_FrancescoRuggieri.pdf).
