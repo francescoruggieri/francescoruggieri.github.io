@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Francesco Ruggieri"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
