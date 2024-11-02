@@ -83,11 +83,11 @@ author:
   name             : # "Francesco Ruggieri"
   avatar           : # "profile.JPG"
   bio              : # "Postdoctoral Scholar in the Department of Economics at the University of Chicago"
-  location         : "Chicago, IL"
+  location         : # "Chicago, IL"
   employer         :
   pubmed           : 
-  googlescholar    : #""
-  email            : "ruggieri@uchicago.edu"
+  googlescholar    : # ""
+  email            : # "ruggieri@uchicago.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "_FRuggieri"
+  twitter          : # "_FRuggieri"
   vine             :
   weibo            :
   xing             :
