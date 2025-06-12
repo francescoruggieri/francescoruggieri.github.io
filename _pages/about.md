@@ -14,3 +14,5 @@ I am a pre-job-market Postdoctoral Scholar in the Kenneth C. Griffin Department 
 My research lies at the intersection of public finance and urban economics, with a focus on property taxation and the spatial structure of local governments in the United States. I also develop econometric methods for identifying and estimating causal parameters that are directly relevant to empirical questions in local public finance.
 
 My email address is [ruggieri@uchicago.edu](mailto:ruggieri@uchicago.edu). A copy of my Curriculum Vitae can be found [here](/files/CV_FrancescoRuggieri.pdf).
+
+**I am on the 2025-26 academic job market.**
