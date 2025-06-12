@@ -15,5 +15,7 @@ My research lies at the intersection of **public finance** and **urban economics
 
 **I am on the 2025-26 academic job market.**
 
-My email address is [ruggieri@uchicago.edu](mailto:ruggieri@uchicago.edu). A copy of my Curriculum Vitae can be found [here](/files/CV_FrancescoRuggieri.pdf).
+A copy of my Curriculum Vitae is available [here](/files/CV_FrancescoRuggieri.pdf).
+
+My email address is [ruggieri@uchicago.edu](mailto:ruggieri@uchicago.edu). 
 
