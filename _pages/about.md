@@ -4,14 +4,9 @@ title: ""
 permalink: /
 excerpt: ""
 author_profile: false
-redirect_from:
-  - /about/
-  - /about.html
+home_aside: >
+  ![Francesco Ruggieri](/images/profile.JPG){: style="max-width:280px; width:100%;" }
 ---
-
-{% aside %}
-![Francesco Ruggieri](/images/profile.JPG){: style="max-width:280px; width:100%;" }
-{% endaside %}
 
 I am a pre-job-market Postdoctoral Scholar in the Kenneth C. Griffin Department of Economics at the University of Chicago, where I completed my Ph.D. in 2024.
 
