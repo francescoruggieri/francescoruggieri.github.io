@@ -8,12 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img class="img-responsive"
-  src="/images/profile.JPG"
-  alt="Francesco Ruggieri"
-  width = "350"
-  style="float: left; margin: 7px 20px 20px 0px; border-radius: 0.25rem;"
->
+## Francesco Ruggieri<img class="img-responsive" src="/images/profile.JPG" alt="Francesco Ruggieri" width = "350" style="float: left; margin: 7px 20px 20px 0px; border-radius: 0.25rem;">
 
 I am a pre-job-market Postdoctoral Scholar in the Kenneth C. Griffin Department of Economics at the University of Chicago, where I completed my Ph.D. in 2024.
 
