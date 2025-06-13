@@ -4,7 +4,8 @@ title: ""
 permalink: /
 excerpt: ""
 author_profile: false
-home_aside: >
+show_sidebar: true
+home_aside: |
   ![Francesco Ruggieri](/images/profile.JPG){: style="max-width:280px; width:100%;" }
 ---
 
