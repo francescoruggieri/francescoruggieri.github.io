@@ -9,15 +9,18 @@ redirect_from:
 ---
 
 <div class="row">
-  <div class="col-md-4">
+  <!-- left column: 3/12 of the width on ?md, full-width on <md -->
+  <div class="col-md-3 text-center">
     <img
       src="/images/profile.JPG"
-      alt="Profile"
-      class="img-responsive"
-      style="margin-bottom: 1rem;"
+      alt="Profile photo"
+      class="img-fluid rounded mb-3"
+      style="max-width: 280px; width: 100%;"
     >
   </div>
-  <div class="col-md-8">
+
+  <!-- right column: 9/12 of the width on ?md, full-width on <md -->
+  <div class="col-md-9">
     <p>
       I am a pre-job-market Postdoctoral Scholar in the Kenneth C. Griffin Department
       of Economics at the University of Chicago, where I completed my Ph.D. in 2024.
@@ -29,13 +32,10 @@ redirect_from:
       <strong>econometric methods</strong> of direct relevance to empirical questions
       in local public finance.
     </p>
+    <p><strong>I am on the 2025-26 academic job market.</strong></p>
     <p>
-      <strong>I am on the 2025-26 academic job market.</strong>
-    </p>
-    <p>
-      A copy of my Curriculum Vitae is available
-      <a href="/files/CV_FrancescoRuggieri.pdf">here</a>.<br>
-      My email address is
+      A copy of my CV is
+      <a href="/files/CV_FrancescoRuggieri.pdf">here</a>, and you can reach me at
       <a href="mailto:ruggieri@uchicago.edu">ruggieri@uchicago.edu</a>.
     </p>
   </div>
