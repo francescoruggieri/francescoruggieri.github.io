@@ -7,7 +7,7 @@ author_profile: false
 
 ## Working Papers
 
-[**Structural Extrapolation in Regression Discontinuity Designs with an Application to School Expenditure Referenda**](/files/RDDExtrapolation.pdf) [<a href="#/" onclick="visib('rddextrapolation')">Abstract</a>] [[arXiv](https://arxiv.org/abs/2307.14203)]
+[**Structural Extrapolation in Regression Discontinuity Designs with an Application to School Expenditure Referenda**](/files/RDDExtrapolation.pdf) [<a href="#/" onclick="visib('rddextrapolation')">Abstract</a>] [[arXiv](https://arxiv.org/abs/2508.02658)]
 (with [Austin Feng](https://www.linkedin.com/in/austin-feng-a83ba8291/))
 
 <div id="rddextrapolation" style="display: none; text-align: justify; line-height: 1.5" >
