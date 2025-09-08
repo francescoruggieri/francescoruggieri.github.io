@@ -6,9 +6,8 @@ author_profile: false
 ---
 
 <p class="atlas-intro">
-This page presents state-level maps of nominal property tax rates levied by overlapping local jurisdictions. More details on data sources can be found in the relevant paper: [**The Geography of the U.S. Property Tax**](/files/GeographyPropTax.pdf)
-
-In general, nominal rates are not directly comparable across states due to variations in factors such as the ratio of property assessed value to market value, appraisal standards, and deductions applicable to specific categories, e.g. elderly homeowners.
+This page presents state-level maps of nominal property tax rates levied by overlapping local jurisdictions. More details on data sources can be found in the relevant paper:
+<a href="/files/GeographyPropTax.pdf"><strong>The Geography of the U.S. Property Tax</strong></a>.
 </p>
 
 <div class="atlas-grid">
