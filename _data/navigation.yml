@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "Research"
     url: /research/  
@@ -11,3 +11,6 @@ main:
 
   - title: "Property Tax Atlas"
     url: /atlas/
+
+  - title: "Dynamic RD"
+    url: /dynrd/
