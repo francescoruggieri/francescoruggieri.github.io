@@ -4,7 +4,7 @@ layout: single
 author_profile: false
 ---
 
-This page presents state-level maps of nominal property tax rates levied by overlapping local jurisdictions in 2020. More details on data sources can be found in the relevant paper: [**The Geography of the U.S. Property Tax**](/files/GeographyPropTax.pdf).
+This page presents state-level maps of nominal property tax rates levied by overlapping local jurisdictions in 2020. More details on data sources are available in [**The Geography of the U.S. Property Tax**](/files/GeographyPropTax.pdf).
 
 In general, nominal rates are not directly comparable across states due to differences in the ratio of assessed to market value, the equalization of assessments across counties, and other state-specific appraisal standards.
 
