@@ -1,5 +1,5 @@
 ---
-permalink: /research/
+permalink: /dynrd/
 author_profile: false
 ---
 
