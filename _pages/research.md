@@ -32,7 +32,7 @@ I propose a novel argument to identify economically interpretable intertemporal 
 I construct a novel, granular georeferenced dataset on the universe of local governments in the United States and their property tax rates from the early 2000s to 2022. Using this dataset, I present new descriptive insights on the geography of the property tax.  First, property tax rates exhibit substantial variation within states, surpassing that of any other local tax. Second, rates are higher in locations where a greater number of jurisdictions overlap and thus share tax base. Third, rates are higher in areas with larger dispersion in property values and greater racial and ethnic heterogeneity. Fourth, new local taxing jurisdictions are more likely to be formed in locations where the distribution of income is more even and dispersion in housing values is lower.
 <br><br/></div>
 
-## Working Papers
+## Work in Progress
 
 The Intergenerational Effects of Health Shocks: Location Choice, Homeownership, and Family Formation (with [Elin Colmsjö](https://sites.google.com/view/elincolmsjo/) and Matteo Saccarola)
 
