@@ -5,6 +5,13 @@ author_profile: false
 
 {% include base_path %}
 
+## Awards
+
+In the 2022/23 academic year, I was awarded the [Wayne C. Booth Graduate Student Prize for Excellence in Teaching](https://college.uchicago.edu/news/uchicago-instructors-grad-students-honored-exemplary-teaching) by the University of Chicago.
+
+In the 2020/21 academic year, I was a recipient of the [Outstanding Undergraduate Teaching Award](https://uchicago.app.box.com/s/2sj9thdqz84xo4xkihwxa6dtjmj26r3r) conferred by the Department of Economics at the University of Chicago.
+
+In the 2015/16 academic year, I was a recipient of the [Teaching Award for Excellent Feedback and Communication](https://www.lse.ac.uk/economics/Assets/Documents/EAR/economics-annual-review-20152016.pdf) conferred by the London School of Economics and Political Science.
 
 ## Lecturer 
 
@@ -32,11 +39,3 @@ In Spring 2021, I taught *Econometrics*. [[Evaluations](/files/21020TeachingEval
 ### London School of Economics and Political Science
 
 * Lent 2016: *Microeconomic Principles* (undergraduate), for [Erik Eyster](https://econ.ucsb.edu/people/faculty/erik-eyster). [[Evaluations](/files/TA_Lent2016_EC201.pdf)]
-
-## Awards
-
-In the 2022/23 academic year, I was awarded the [Wayne C. Booth Graduate Student Prize for Excellence in Teaching](https://college.uchicago.edu/news/uchicago-instructors-grad-students-honored-exemplary-teaching) by the University of Chicago.
-
-In the 2020/21 academic year, I was a recipient of the [Outstanding Undergraduate Teaching Award](https://uchicago.app.box.com/s/2sj9thdqz84xo4xkihwxa6dtjmj26r3r) conferred by the Department of Economics at the University of Chicago.
-
-In the 2015/16 academic year, I was a recipient of the [Teaching Award for Excellent Feedback and Communication](https://www.lse.ac.uk/economics/Assets/Documents/EAR/economics-annual-review-20152016.pdf) conferred by the London School of Economics and Political Science.
