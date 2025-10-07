@@ -9,6 +9,7 @@ author_profile: false
 
 [**Structural Extrapolation in Regression Discontinuity Designs with an Application to School Expenditure Referenda**](/files/RDDExtrapolation.pdf) [<a href="#/" onclick="visib('rddextrapolation')">Abstract</a>] [[arXiv](https://arxiv.org/abs/2508.02658)]
 (with [Austin Feng](https://www.cmu.edu/dietrich/statistics-datascience/people/phd/austin-feng.html))
+
 Under review.
 
 <div id="rddextrapolation" style="display: none; text-align: justify; line-height: 1.5" >
@@ -16,6 +17,7 @@ We propose a structural approach to extrapolate average partial effects away fro
 <br><br/></div>
 
 [**Dynamic Regression Discontinuity: An Event-Study Approach**](/files/DynDisc.pdf) [<a href="#/" onclick="visib('dyndisc')">Abstract</a>] [[arXiv](https://arxiv.org/abs/2307.14203)]
+
 Under review.
 
 <div id="dyndisc" style="display: none; text-align: justify; line-height: 1.5" >
