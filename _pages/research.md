@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 author_profile: false
+classes: wide
 ---
 
 {% include base_path %}
