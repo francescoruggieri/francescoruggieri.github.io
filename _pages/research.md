@@ -2,17 +2,8 @@
 permalink: /research/
 layout: single
 author_profile: false
-classes: wide research-wide   # ← add a unique class
+classes: wide
 ---
-<style>
-  @media (min-width: 1024px) {
-    /* the body gets the layout class; target the article with your custom class */
-    body.layout--single .page.research-wide .page__inner,
-    body.layout--single .page.research-wide .page__content {
-      max-width: 1100px !important; /* the !important helps beat theme defaults */
-    }
-  }
-</style>
 
 {% include base_path %}
 
