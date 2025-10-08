@@ -9,7 +9,7 @@ classes: wide research-wide   # ← add a unique class
   @media (min-width: 1024px) {
     .page.research-wide .page__inner,
     .page.research-wide .page__content {
-      max-width: 1600px; /* tweak to taste */
+      max-width: 1600px!important; /* tweak to taste */
     }
   }
 </style>
