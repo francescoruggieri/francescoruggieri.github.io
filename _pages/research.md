@@ -5,15 +5,9 @@ author_profile: false
 classes: wide research-wide
 ---
 <style>
-  /* widen the outer container */
-  .page.research-wide .initial-content .wrap {
-    max-width: 1400px;     /* outer container */
-  }
-
-  /* widen the inner text column */
-  .page.research-wide .page__content {
-    max-width: 1100px;     /* main column */
-  }
+.page.research-wide .initial-content .wrap { max-width: $x-large !important; }
+.page.research-wide .page__inner         { max-width: 1200px !important; }
+.page.research-wide .page__content       { max-width: 1100px !important; }
 </style>
 
 {% include base_path %}
