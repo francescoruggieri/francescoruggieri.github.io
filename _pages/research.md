@@ -5,9 +5,12 @@ author_profile: false
 classes: wide research-wide
 ---
 <style>
-.page.research-wide .initial-content .wrap { max-width: $x-large !important; }
-.page.research-wide .page__inner         { max-width: 1200px !important; }
-.page.research-wide .page__content       { max-width: 1100px !important; }
+@media (min-width: 1024px){
+  /* widen outer container just for pages with your custom class */
+  .page.research-wide .initial-content .wrap { max-width: 1400px !important; }
+  /* optional: widen inner column a bit as well */
+  .page.research-wide .page__content { max-width: 1100px !important; }
+}
 </style>
 
 {% include base_path %}
