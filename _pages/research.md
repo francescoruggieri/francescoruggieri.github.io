@@ -5,11 +5,11 @@ author_profile: false
 classes: wide research-wide   # ← add a unique class
 ---
 <style>
-  /* only this page (thanks to .research-wide) and only on wide screens */
   @media (min-width: 1024px) {
-    .page.research-wide .page__inner,
-    .page.research-wide .page__content {
-      max-width: 1600px!important; /* tweak to taste */
+    /* the body gets the layout class; target the article with your custom class */
+    body.layout--single .page.research-wide .page__inner,
+    body.layout--single .page.research-wide .page__content {
+      max-width: 1100px !important; /* the !important helps beat theme defaults */
     }
   }
 </style>
