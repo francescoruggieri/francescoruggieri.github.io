@@ -2,8 +2,15 @@
 permalink: /research/
 layout: single
 author_profile: false
-classes: wide
+classes: wide research-wide
 ---
+<style>
+@media (min-width: 1024px){
+  .layout--single .page.research-wide .wrap{max-width:1400px!important;}
+  .layout--single .page.research-wide .page__inner{max-width:1200px!important;}
+  .layout--single .page.research-wide .page__content{max-width:1100px!important;}
+}
+</style>
 
 {% include base_path %}
 
