@@ -1,9 +1,18 @@
 ---
 permalink: /research/
-author_profile: false
 layout: single
-classes: wide
+author_profile: false
+classes: wide research-wide   # ← add a unique class
 ---
+<style>
+  /* only this page (thanks to .research-wide) and only on wide screens */
+  @media (min-width: 1024px) {
+    .page.research-wide .page__inner,
+    .page.research-wide .page__content {
+      max-width: 1600px; /* tweak to taste */
+    }
+  }
+</style>
 
 {% include base_path %}
 
