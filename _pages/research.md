@@ -8,16 +8,14 @@ author_profile: false
 ## Working Papers
 
 [**Structural Extrapolation in Regression Discontinuity Designs with an Application to School Expenditure Referenda**](/files/RDDExtrapolation.pdf) [<a href="#/" onclick="visib('rddextrapolation')">Abstract</a>] [[arXiv](https://arxiv.org/abs/2508.02658)]
-(with [Austin Feng](https://www.cmu.edu/dietrich/statistics-datascience/people/phd/austin-feng.html))
-
+(with [Austin Feng](https://www.cmu.edu/dietrich/statistics-datascience/people/phd/austin-feng.html))  
 Under review.
 
 <div id="rddextrapolation" style="display: none; text-align: justify; line-height: 1.5" >
-We propose a structural approach to extrapolate average partial effects away from the cutoff in regression discontinuity designs (RDDs). Our focus is on applications that exploit closely contested school district referenda to estimate the effects of changes in education spending on local economic outcomes. We embed these outcomes in a spatial equilibrium model of local jurisdictions in which fiscal policy is determined by majority rule voting. This integration provides a microfoundation for the running variable&#8212;the share of voters who approve a ballot initiative&#8212;and enables identification of structural parameters using RDD coefficients. We then leverage the model to simulate the effects of counterfactual referenda over a broad range of proposed spending changes. These scenarios imply realizations of the running variable away from the threshold, allowing extrapolation of RDD estimates to nonmarginal referenda. Applying the method to school expenditure ballot measures in Wisconsin, we document substantial heterogeneity in housing price capitalization across the approval margin.
+We propose a structural approach to extrapolate average partial effects away from the cutoff in regression discontinuity designs (RDDs). Our focus is on applications that exploit closely contested school district referenda to estimate the effects of changes in education spending on local economic outcomes. We embed these outcomes in a spatial equilibrium model of local jurisdictions in which fiscal policy is determined by majority rule voting. This integration provides a microfoundation for the running variable&#8212;the share of voters who approve a ballot initiative&#8212;and enables identification of structural parameters using RDD coefficients. We then leverage the model to simulate the effects of counterfactual referenda over a broad range of proposed spending changes. These scenarios imply realizations of the running variable away from the threshold, allowing extrapolation of RDD estimates to nonmarginal referenda. Applying the method to school expenditure ballot measures in Wisconsin, we document substantial heterogeneity in housing price capitalization across the approval margin.  
 <br><br/></div>
 
 [**Dynamic Regression Discontinuity: An Event-Study Approach**](/files/DynDisc.pdf) [<a href="#/" onclick="visib('dyndisc')">Abstract</a>] [[arXiv](https://arxiv.org/abs/2307.14203)]
-
 Under review.
 
 <div id="dyndisc" style="display: none; text-align: justify; line-height: 1.5" >
