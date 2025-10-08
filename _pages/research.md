@@ -2,8 +2,19 @@
 permalink: /research/
 layout: single
 author_profile: false
-classes: wide
+classes: wide research-wide
 ---
+<style>
+  /* widen the outer container */
+  .page.research-wide .initial-content .wrap {
+    max-width: 1400px;     /* outer container */
+  }
+
+  /* widen the inner text column */
+  .page.research-wide .page__content {
+    max-width: 1100px;     /* main column */
+  }
+</style>
 
 {% include base_path %}
 
