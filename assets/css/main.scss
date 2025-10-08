@@ -10,6 +10,10 @@
  *
 */
 
+/* Override widths BEFORE importing the theme's variables */
+$max-width: 1400px;     // overall container cap (affects pages with `classes: wide`)
+$content-width: 980px;  // default article column width
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
