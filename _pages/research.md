@@ -5,6 +5,11 @@ author_profile: false
 
 {% include base_path %}
 
+## Job Market Paper
+
+**Overlapping Jurisdictions and the Provision of Local Public Goods in U.S. Metropolitan Areas**
+
+
 ## Working Papers
 
 [**Structural Extrapolation in Regression Discontinuity Designs with an Application to School Expenditure Referenda**](/files/RDDExtrapolation.pdf) [<a href="#/" onclick="visib('rddextrapolation')">Abstract</a>] [[arXiv](https://arxiv.org/abs/2508.02658)]
