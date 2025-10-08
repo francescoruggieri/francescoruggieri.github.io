@@ -2,7 +2,7 @@
 permalink: /research/
 layout: single
 author_profile: false
-classes: wide research-wide
+classes: wide
 ---
 <style>
 @media (min-width: 1024px){
