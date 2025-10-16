@@ -16,7 +16,7 @@ redirect_from:
       display: block;
       margin: 0 auto 1rem !important; /* center image, add space below */
       width: 100% !important;         /* make it responsive */
-      max-width: 360px;               /* don't exceed your desktop size */
+      max-width: 320px;               /* don't exceed your desktop size */
       height: auto;
     }
   }
@@ -25,7 +25,7 @@ redirect_from:
 <img class="img-responsive profile-img"
      src="/images/profile-jobmarket.png"
      alt="Francesco Ruggieri"
-     width="360"
+     width="320"
      style="float: left; margin: 0 20px 20px 0; border-radius: 0.25rem;">
 
 I am a pre-job-market Postdoctoral Scholar in the Kenneth C. Griffin Department of Economics at the University of Chicago, where I received my Ph.D. in 2024.
