@@ -3,42 +3,50 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: false
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 <style>
-  /* Stack the image on small screens */
+  /* Desktop/tablet: image + text side by side, vertically centered */
+  .intro-hero {
+    display: flex;
+    align-items: center;   /* vertical centering of the text */
+    gap: 20px;             /* space between photo and text */
+  }
+  .intro-photo {
+    width: 320px;          /* your chosen width */
+    max-width: 100%;
+    height: auto;
+    border-radius: 0.25rem;
+  }
+
+  /* Phones: stack image above text */
   @media (max-width: 600px) {
-    .profile-img {
-      float: none !important;
-      display: block;
-      margin: 0 auto 1rem !important; /* center image, add space below */
-      width: 100% !important;         /* make it responsive */
-      max-width: 320px;               /* don't exceed your desktop size */
-      height: auto;
+    .intro-hero {
+      flex-direction: column;
+      align-items: center;
     }
   }
 </style>
 
-<img class="img-responsive profile-img"
-     src="/images/profile-jobmarket.png"
-     alt="Francesco Ruggieri"
-     width="320"
-     style="float: left; margin: 0 20px 20px 0; border-radius: 0.25rem;">
+<div class="intro-hero">
+  <img src="/images/profile-jobmarket.png"
+       alt="Francesco Ruggieri"
+       class="intro-photo">
+  <div class="intro-copy">
+    <p>I am a pre-job-market Postdoctoral Scholar in the Kenneth C. Griffin Department of Economics at the University of Chicago, where I received my Ph.D. in 2024.</p>
 
-I am a pre-job-market Postdoctoral Scholar in the Kenneth C. Griffin Department of Economics at the University of Chicago, where I received my Ph.D. in 2024.
+    <p>My research primarily lies at the intersection of <strong>public finance</strong> and <strong>urban economics</strong>, with a focus on property taxation and the spatial structure of local governments in the United States. I also develop <strong>econometric methods</strong> of direct relevance to empirical questions in local public finance.</p>
 
-My research primarily lies at the intersection of **public finance** and **urban economics**, with a focus on property taxation and the spatial structure of local governments in the United States. I also develop **econometric methods** of direct relevance to empirical questions in local public finance.
+    <p><strong>I am on the 2025–26 academic job market.</strong></p>
 
-**I am on the 2025-26 academic job market.**
-
-My Curriculum Vitae is available [here](/files/CV_FrancescoRuggieri.pdf).
-
-My email address is [ruggieri@uchicago.edu](mailto:ruggieri@uchicago.edu). 
-
-<div style="clear: both;"></div>
+    <p>My Curriculum Vitae is available <a href="/files/CV_FrancescoRuggieri.pdf">here</a>.<br>
+       My email address is <a href="mailto:ruggieri@uchicago.edu">ruggieri@uchicago.edu</a>.
+    </p>
+  </div>
+</div>
 
 ## Job Market Paper
 
