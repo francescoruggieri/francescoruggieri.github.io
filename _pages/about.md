@@ -8,7 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-<img class="img-responsive" src="/images/profile-jobmarket.png" alt="Francesco Ruggieri" width = "320" style="float: left; margin: 10px 20px 20px 0px; border-radius: 0.25rem;">
+<style>
+  /* Stack the image on small screens */
+  @media (max-width: 600px) {
+    .profile-img {
+      float: none !important;
+      display: block;
+      margin: 0 auto 1rem !important; /* center image, add space below */
+      width: 100% !important;         /* make it responsive */
+      max-width: 360px;               /* don't exceed your desktop size */
+      height: auto;
+    }
+  }
+</style>
+
+<img class="img-responsive profile-img"
+     src="/images/profile-jobmarket.png"
+     alt="Francesco Ruggieri"
+     width="360"
+     style="float: left; margin: 0 20px 20px 0; border-radius: 0.25rem;">
+
 I am a pre-job-market Postdoctoral Scholar in the Kenneth C. Griffin Department of Economics at the University of Chicago, where I received my Ph.D. in 2024.
 
 My research primarily lies at the intersection of **public finance** and **urban economics**, with a focus on property taxation and the spatial structure of local governments in the United States. I also develop **econometric methods** of direct relevance to empirical questions in local public finance.
