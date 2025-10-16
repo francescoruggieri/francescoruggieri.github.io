@@ -42,8 +42,9 @@ redirect_from:
 
     <p><strong>I am on the 2025–26 academic job market.</strong></p>
 
-    <p>My Curriculum Vitae is available <a href="/files/CV_FrancescoRuggieri.pdf">here</a>.<br>
-       My email address is <a href="mailto:ruggieri@uchicago.edu">ruggieri@uchicago.edu</a>.
+    <p>My Curriculum Vitae is available <a href="/files/CV_FrancescoRuggieri.pdf">here</a>.</p>
+
+    </p>My email address is <a href="mailto:ruggieri@uchicago.edu">ruggieri@uchicago.edu</a>.
     </p>
   </div>
 </div>
