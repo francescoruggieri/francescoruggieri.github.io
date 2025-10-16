@@ -44,8 +44,7 @@ redirect_from:
 
     <p>My Curriculum Vitae is available <a href="/files/CV_FrancescoRuggieri.pdf">here</a>.</p>
 
-    </p>My email address is <a href="mailto:ruggieri@uchicago.edu">ruggieri@uchicago.edu</a>.
-    </p>
+    <p>My email address is <a href="mailto:ruggieri@uchicago.edu">ruggieri@uchicago.edu</a>.</p>
   </div>
 </div>
 
