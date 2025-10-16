@@ -20,6 +20,7 @@ redirect_from:
     flex-direction: column;
     justify-content: center; /* ← vertically center the text stack */
     gap: 1rem;               /* replaces paragraph margins */
+    margin-top: -0.25rem;
   }
   .intro-copy p { margin: 0; }  /* remove default/asymmetric p margins */
   .intro-photo {
@@ -35,6 +36,7 @@ redirect_from:
       flex-direction: column;
       align-items: center;
     }
+    .intro-copy { margin-top: 0; }
   }
 </style>
 
