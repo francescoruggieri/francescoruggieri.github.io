@@ -12,9 +12,16 @@ redirect_from:
   /* Desktop/tablet: image + text side by side, vertically centered */
   .intro-hero {
     display: flex;
-    align-items: center;   /* vertical centering of the text */
-    gap: 20px;             /* space between photo and text */
+    align-items: center; /* centers photo and text columns */
+    gap: 20px;
   }
+  .intro-copy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* ← vertically center the text stack */
+    gap: 1rem;               /* replaces paragraph margins */
+  }
+  .intro-copy p { margin: 0; }  /* remove default/asymmetric p margins */
   .intro-photo {
     width: 320px;          /* your chosen width */
     max-width: 100%;
