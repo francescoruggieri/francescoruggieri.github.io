@@ -54,7 +54,7 @@ I construct a novel, granular georeferenced dataset on the universe of local gov
 The Intergenerational Effects of Health Shocks: Location Choice, Homeownership, and Family Formation [<a href="#/" onclick="visib('intergen')">Abstract</a>] (with [Elin Colmsjö](https://sites.google.com/view/elincolmsjo/) and [Matteo Saccarola](https://matteosaccarola.github.io/))
 <div id="intergen" style="display: none; text-align: justify; line-height: 1.5; font-size: 0.90em" >
 We leverage Danish administrative data to study intra-household responses to unanticipated health shocks affecting the parents of working-age adults. Using a research design that compares similarly aged individuals whose parents experience a stroke at different times, we find that parental health shocks lead to reductions in adult children's income, lower rates of homeownership, increased geographic proximity to parents, and decreased likelihood of marriage. Heterogeneity analyses show that the non-pecuniary consequences are more pronounced among women. We then focus on the location margin and develop a model of residential location choice that features distance from parents and health shocks. By linking our reduced-form estimates to the model, we recover policy-relevant parameters that allow us to quantify the intergenerational consequences of parental health shocks operating through residential adjustments.
-<br><br/></div>
+</div>
 
 [//]: This java script is the button to show abstract
 <script>
