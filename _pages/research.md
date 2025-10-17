@@ -51,7 +51,7 @@ I construct a novel, granular georeferenced dataset on the universe of local gov
 
 ## Work in Progress
 
-The Intergenerational Effects of Health Shocks: Location Choice, Homeownership, and Family Formation (with [Elin Colmsjö](https://sites.google.com/view/elincolmsjo/) and Matteo Saccarola)
+The Intergenerational Effects of Health Shocks: Location Choice, Homeownership, and Family Formation (with [Elin Colmsjö](https://sites.google.com/view/elincolmsjo/) and [Matteo Saccarola](https://matteosaccarola.github.io/))
 
 [//]: This java script is the button to show abstract
 <script>
