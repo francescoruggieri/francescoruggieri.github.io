@@ -35,22 +35,27 @@ a.skip-link:hover {
   text-decoration-color: currentColor; /* underline follows text color */
 }
 
-/* ── Top navigation: match main text color, maroon on hover ── */
-/* Ensure the masthead isn't dimmed */
+/* ── Top navigation: exactly match main text color/opacity; maroon on hover ── */
+
+/* Avoid theme dimming so we keep the same visual weight as body text */
 .greedy-nav .visible-links > li,
 .greedy-nav .hidden-links > li {
-  opacity: 1;
+  opacity: 1; /* don't stack extra opacity on top of body text's rgba */
 }
 
-/* Default state: inherit the body text color exactly */
+/* Default + visited = exactly the same as body text (color + alpha) */
 .greedy-nav .visible-links > li > a,
+.greedy-nav .visible-links > li > a:visited,
 .greedy-nav .hidden-links > li > a,
-.masthead__menu-item a {
-  color: inherit;                 /* same as main text */
+.greedy-nav .hidden-links > li > a:visited,
+.masthead__menu-item a,
+.masthead__menu-item a:visited {
+  color: inherit;                 /* picks up body text color (e.g., rgba(0,0,0,0.87)) */
+  text-decoration-color: currentColor; /* underline matches text */
   transition: color 0.2s ease;
 }
 
-/* Hover/focus: maroon */
+/* Hover/focus = maroon */
 .greedy-nav .visible-links > li > a:hover,
 .greedy-nav .visible-links > li > a:focus,
 .greedy-nav .hidden-links > li > a:hover,
@@ -58,4 +63,5 @@ a.skip-link:hover {
 .masthead__menu-item a:hover,
 .masthead__menu-item a:focus {
   color: #800000;                 /* maroon on hover */
+  text-decoration-color: currentColor;
 }
