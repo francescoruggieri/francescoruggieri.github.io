@@ -8,7 +8,7 @@
   .layout--single .page.wide .page__content{ max-width:1100px !important; }
 }
 
-/* ── Maroon hyperlinks across the site (exclude button-styled links) ── */
+/* ── Maroon hyperlinks; underline matches text color ── */
 .page__content a:not(.btn),
 .page__content a:visited:not(.btn),
 .archive__item-title a,
@@ -16,20 +16,21 @@
 .footer a,
 .footer a:visited,
 a.skip-link {
-  color: #800000; /* maroon */
-  text-decoration-color: rgba(128, 0, 0, 0.35);
+  color: #800000;                 /* maroon text */
+  text-decoration-color: currentColor; /* underline same color as text */
 }
 
 .page__content a:hover:not(.btn),
 .archive__item-title a:hover,
 .footer a:hover,
 a.skip-link:hover {
-  color: #a00000;
-  text-decoration-color: rgba(160, 0, 0, 0.55);
+  color: #a00000;                 /* lighter maroon on hover */
+  text-decoration-color: currentColor; /* underline follows text color */
 }
 
 .page__content a:active:not(.btn),
 .archive__item-title a:active,
 .footer a:active {
-  color: #5a0000;
+  color: #5a0000;                 /* darker maroon when pressed */
+  text-decoration-color: currentColor;
 }
