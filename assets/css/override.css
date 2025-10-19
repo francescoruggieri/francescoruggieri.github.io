@@ -62,6 +62,6 @@ a.skip-link:hover {
 .greedy-nav .hidden-links > li > a:focus,
 .masthead__menu-item a:hover,
 .masthead__menu-item a:focus {
-  color: #800000;                 /* maroon on hover */
+  color: #a00000;                 /* lighter maroon on hover */
   text-decoration-color: currentColor;
 }
