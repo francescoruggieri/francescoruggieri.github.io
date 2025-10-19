@@ -34,3 +34,27 @@ a.skip-link:hover {
   color: #a00000;                 /* lighter maroon on hover */
   text-decoration-color: currentColor; /* underline follows text color */
 }
+
+/* ── Top navigation (Home / Research / Teaching) ── */
+.greedy-nav .visible-links > li > a,
+.greedy-nav .hidden-links > li > a,
+.masthead__menu-item a {
+  color: #000;              /* black by default */
+  transition: color 0.2s ease;
+}
+
+/* Maroon on hover or focus */
+.greedy-nav .visible-links > li > a:hover,
+.greedy-nav .visible-links > li > a:focus,
+.greedy-nav .hidden-links > li > a:hover,
+.greedy-nav .hidden-links > li > a:focus,
+.masthead__menu-item a:hover,
+.masthead__menu-item a:focus {
+  color: #800000;           /* maroon on hover */
+}
+
+/* Prevent greyed-out look */
+.greedy-nav .visible-links > li,
+.greedy-nav .hidden-links > li {
+  opacity: 1;
+}
