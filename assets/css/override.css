@@ -31,6 +31,6 @@ a.skip-link:hover {
 .page__content a:active:not(.btn),
 .archive__item-title a:active,
 .footer a:active {
-  color: #5a0000;                 /* darker maroon when pressed */
-  text-decoration-color: currentColor;
+  color: #a00000;                 /* lighter maroon on hover */
+  text-decoration-color: currentColor; /* underline follows text color */
 }
