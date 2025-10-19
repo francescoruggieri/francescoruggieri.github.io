@@ -16,7 +16,7 @@
 .footer a,
 .footer a:visited,
 a.skip-link {
-  color: #800000;                 /* maroon text */
+  color: #a00000;                 /* maroon text */
   text-decoration-color: currentColor; /* underline same color as text */
 }
 
