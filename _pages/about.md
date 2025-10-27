@@ -109,7 +109,11 @@ Under review.
 
 ## Work in Progress
 
-sTIFled Budgets: The Welfare Implications of Tax Increment Financing Districts
+**sTIFled Budgets: The Welfare Implications of Tax Increment Financing Districts**
+
+**Estimating the Production Function of Local Governments in the United States**
+
+**The Incidence of Property Tax Changes on Homeowners and Renters: Evidence from Italy**
 
 [//]: This java script is the button to show abstract
 <script>
