@@ -96,8 +96,8 @@ Under review.
   </p>
 </div>
 
-[**A Spatial Theory of Overlapping Local Governments**](/files/OverlappingGovernments_v3.pdf) [<a href="#/" onclick="visib('spatialtheory')">Abstract</a>] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4808965)]
-This paper is partly subsumed into my job market paper.
+[**A Spatial Theory of Overlapping Local Governments**](/files/OverlappingGovernments_v3.pdf) [<a href="#/" onclick="visib('spatialtheory')">Abstract</a>] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4808965)]  
+This draft is partly subsumed into my job market paper.
 <div id="spatialtheory"
      style="display:none; text-align:justify; line-height:1.5; font-size:0.90em; margin-top:-1rem">
   <p style="margin-top:0">
