@@ -69,6 +69,15 @@ redirect_from:
 
 ## Working Papers
 
+[**Dynamic Regression Discontinuity: An Event-Study Approach**](/files/DynDisc.pdf) [<a href="#/" onclick="visib('dyndisc')">Abstract</a>] [[arXiv](https://arxiv.org/abs/2307.14203)]  
+Revision requested, ***Journal of Econometrics***
+<div id="dyndisc"
+     style="display:none; text-align:justify; line-height:1.5; font-size:0.90em; margin-top:-1rem">
+  <p style="margin-top:0">
+      I propose a novel argument to identify economically interpretable intertemporal treatment effects in dynamic regression discontinuity designs (RDDs). Specifically, I develop a dynamic potential outcomes model and reformulate two assumptions from the difference-in-differences literature&#8212;no anticipation and common trends&#8212;to attain point identification of cutoff-specific impulse responses. The estimand of each target parameter can be expressed as the sum of two static RDD contrasts, thereby allowing for nonparametric estimation and inference with standard local polynomial methods. I also propose a nonparametric approach to aggregate treatment effects across calendar time and treatment paths, leveraging a limited path independence restriction to reduce the dimensionality of the parameter space. I apply this method to estimate the dynamic effects of school district expenditure authorizations on housing prices in Wisconsin.
+  </p>
+</div>
+
 [**Structural Extrapolation in Regression Discontinuity Designs with an Application to School Expenditure Referenda**](/files/RDDExtrapolation.pdf) [<a href="#/" onclick="visib('rddextrapolation')">Abstract</a>] [[arXiv](https://arxiv.org/abs/2508.02658)]
 (with [Austin Feng](https://www.cmu.edu/dietrich/statistics-datascience/people/phd/austin-feng.html))  
 Under review.
@@ -76,15 +85,6 @@ Under review.
      style="display:none; text-align:justify; line-height:1.5; font-size:0.90em; margin-top:-1rem">
   <p style="margin-top:0">
       We propose a structural approach to extrapolate average partial effects away from the cutoff in regression discontinuity designs (RDDs). Our focus is on applications that exploit closely contested school district referenda to estimate the effects of changes in education spending on local economic outcomes. We embed these outcomes in a spatial equilibrium model of local jurisdictions in which fiscal policy is determined by majority rule voting. This integration provides a microfoundation for the running variable&#8212;the share of voters who approve a ballot initiative&#8212;and enables identification of structural parameters using RDD coefficients. We then leverage the model to simulate the effects of counterfactual referenda over a broad range of proposed spending changes. These scenarios imply realizations of the running variable away from the threshold, allowing extrapolation of RDD estimates to nonmarginal referenda. Applying the method to school expenditure ballot measures in Wisconsin, we document substantial heterogeneity in housing price capitalization across the approval margin.
-  </p>
-</div>
-
-[**Dynamic Regression Discontinuity: An Event-Study Approach**](/files/DynDisc.pdf) [<a href="#/" onclick="visib('dyndisc')">Abstract</a>] [[arXiv](https://arxiv.org/abs/2307.14203)]  
-Under review.
-<div id="dyndisc"
-     style="display:none; text-align:justify; line-height:1.5; font-size:0.90em; margin-top:-1rem">
-  <p style="margin-top:0">
-      I propose a novel argument to identify economically interpretable intertemporal treatment effects in dynamic regression discontinuity designs (RDDs). Specifically, I develop a dynamic potential outcomes model and reformulate two assumptions from the difference-in-differences literature&#8212;no anticipation and common trends&#8212;to attain point identification of cutoff-specific impulse responses. The estimand of each target parameter can be expressed as the sum of two static RDD contrasts, thereby allowing for nonparametric estimation and inference with standard local polynomial methods. I also propose a nonparametric approach to aggregate treatment effects across calendar time and treatment paths, leveraging a limited path independence restriction to reduce the dimensionality of the parameter space. I apply this method to estimate the dynamic effects of school district expenditure authorizations on housing prices in Wisconsin.
   </p>
 </div>
 
