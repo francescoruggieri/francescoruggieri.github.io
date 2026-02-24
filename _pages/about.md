@@ -47,6 +47,8 @@ redirect_from:
   <div class="intro-copy">
     <p>I am a Postdoctoral Scholar in the Kenneth C. Griffin Department of Economics at the University of Chicago, where I received my Ph.D. in 2024.</p>
 
+    <p> In August 2026, I will join the University of Virginia as an Assistant Professor in the Department of Economics.</p>
+
     <p>My research primarily lies at the intersection of <strong>public finance</strong> and <strong>urban economics</strong>, with a focus on property taxation and the spatial structure of local governments in the United States. I also develop <strong>econometric methods</strong> of direct relevance to empirical questions in local public finance.</p>
 
     <p>My Curriculum Vitae is available <a href="/files/FrancescoRuggieri_CV.pdf">here</a>.</p>
