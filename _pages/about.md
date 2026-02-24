@@ -57,7 +57,7 @@ redirect_from:
 
 ## Working Papers
 
-[**Overlapping Jurisdictions and the Provision of Local Public Goods in U.S. Metropolitan Areas**](/files/FrancescoRuggieri_JMP.pdf) [<a href="#/" onclick="visib('overlappingjurisdictions')">Abstract</a>]
+[**Overlapping Jurisdictions and the Provision of Local Public Goods in U.S. Metropolitan Areas**](/files/FrancescoRuggieri_JMP.pdf) [<a href="#/" onclick="visib('overlappingjurisdictions')">Abstract</a>]  
 Job Market Paper
 <div id="overlappingjurisdictions"
      style="display:none; text-align:justify; line-height:1.5; font-size:0.90em; margin-top:-1rem">
