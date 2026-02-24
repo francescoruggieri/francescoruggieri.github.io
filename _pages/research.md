@@ -37,7 +37,7 @@ Revision requested, ***Journal of Econometrics***
 
 [**Structural Extrapolation in Regression Discontinuity Designs with an Application to School Expenditure Referenda**](/files/RDDExtrapolation.pdf) [<a href="#/" onclick="visib('rddextrapolation')">Abstract</a>] [[arXiv](https://arxiv.org/abs/2508.02658)]
 (with [Austin Feng](https://www.cmu.edu/dietrich/statistics-datascience/people/phd/austin-feng.html))  
-Under review.
+Under review
 <div id="rddextrapolation"
      style="display:none; text-align:justify; line-height:1.5; font-size:0.90em; margin-top:-1rem">
   <p style="margin-top:0">
