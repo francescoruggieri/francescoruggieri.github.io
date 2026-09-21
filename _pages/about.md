@@ -75,9 +75,16 @@ Revision requested, ***Journal of Econometrics***
   </p>
 </div>
 
+[**Does Family Caregiving Complement Formal Care? Daughters and Parental Survival After a Severe Health Shock**](/files/DoesFamilyCaregivingComplementFormalCare.pdf) [<a href="#/" onclick="visib('intergen')">Abstract</a>] (with [Elin Colmsjö](https://sites.google.com/view/elincolmsjo/) and [Matteo Saccarola](https://matteosaccarola.github.io/))
+<div id="intergen"
+     style="display:none; text-align:justify; line-height:1.5; font-size:0.90em; margin-top:-1rem">
+  <p style="margin-top:0">
+      We study how informal family caregiving and formal care interact after severe parental health shocks, and whether they operate as substitutes or complements. Using Danish administrative data, we compare parents of only children who experience a stroke at the same age and differ only in the gender of their child. Before the stroke, parents of daughters and parents of sons follow similar health trajectories, with comparable levels of pre-existing conditions and healthcare utilization. After the stroke, a survival gap opens and grows, and parents of daughters are 1.5 percentage points more likely to be alive by year five. Over the same period, daughters adjust more than sons along several margins: they become more likely to live near their parents, less likely to be married, and have fewer children, consistent with greater involvement in informal caregiving. Crucially, parents of daughters use more physical rehabilitation, an elective type of formal care that requires sustained engagement. Rather than crowding out formal provision, daughters appear more likely to help parents navigate and use professional services. Informal and formal care can therefore operate, at least in part, as complements in the response to severe health shocks.
+  </p>
+</div>
+
 [**Structural Extrapolation in Regression Discontinuity Designs with an Application to School Expenditure Referenda**](/files/RDDExtrapolation.pdf) [<a href="#/" onclick="visib('rddextrapolation')">Abstract</a>] [[arXiv](https://arxiv.org/abs/2508.02658)]
 (with [Austin Feng](https://www.cmu.edu/dietrich/statistics-datascience/people/phd/austin-feng.html))  
-Under review
 <div id="rddextrapolation"
      style="display:none; text-align:justify; line-height:1.5; font-size:0.90em; margin-top:-1rem">
   <p style="margin-top:0">
@@ -99,14 +106,6 @@ This draft is partly subsumed into my job market paper.
      style="display:none; text-align:justify; line-height:1.5; font-size:0.90em; margin-top:-1rem">
   <p style="margin-top:0">
       Local governments in the United States are vertically differentiated. A typical location is served by multiple overlapping jurisdictions that share property tax base and specialize in the provision of one or more local public goods. This paper evaluates the implications of such vertical differentiation for the equilibrium levels of government spending, property tax rates, and household welfare. I propose a spatial theory of overlapping jurisdictions in which residents collectively determine the local mix of expenditures and taxes. Because fiscal policy capitalizes into housing prices and all jurisdictions draw revenue from housing, the cost of raising expenditures in a location is implicitly shared with other coexisting jurisdictions. In equilibrium, this induces higher levels of government spending, higher property tax rates, and lower household welfare compared to scenarios in which jurisdictions are vertically coterminous or only horizontally differentiated.
-  </p>
-</div>
-
-[**The Intergenerational Effects of Health Shocks: Location Choice, Homeownership, and Family Formation**](/files/IntergenHealthShocks.pdf) [<a href="#/" onclick="visib('intergen')">Abstract</a>] (with [Elin Colmsjö](https://sites.google.com/view/elincolmsjo/) and [Matteo Saccarola](https://matteosaccarola.github.io/))
-<div id="intergen"
-     style="display:none; text-align:justify; line-height:1.5; font-size:0.90em; margin-top:-1rem">
-  <p style="margin-top:0">
-      We leverage Danish administrative data to study intra-household responses to unanticipated health shocks affecting the parents of working-age adults. Using a research design that compares similarly aged individuals whose parents experience a stroke at different times, we find that parental health shocks lead to reductions in adult children's income, lower rates of homeownership, increased geographic proximity to parents, and decreased likelihood of marriage. Heterogeneity analyses show that the non-pecuniary consequences are more pronounced among women. We then focus on the location margin and develop a model of residential location choice that features distance from parents and health shocks. By linking our reduced-form estimates to the model, we recover policy-relevant parameters that allow us to quantify the intergenerational consequences of parental health shocks operating through residential adjustments.
   </p>
 </div>
 
