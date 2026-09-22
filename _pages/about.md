@@ -47,7 +47,7 @@ redirect_from:
   <div class="intro-copy">
     <p>I am an Assistant Professor in the Department of Economics at the University of Virginia.</p>
 
-    <p>My research primarily lies at the intersection of <strong>public finance</strong> and <strong>urban economics</strong>. I also develop <strong>econometric methods</strong> of direct relevance to empirical questions in local public finance.</p>
+    <p>My research is primarily in <strong>public finance</strong> and <strong>urban economics</strong>. I also develop <strong>econometric methods</strong> of direct relevance to empirical questions in local public finance.</p>
 
     <p>My Curriculum Vitae is available <a href="/files/FrancescoRuggieri_CV.pdf">here</a>.</p>
 
