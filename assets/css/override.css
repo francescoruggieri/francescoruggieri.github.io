@@ -1,0 +1,69 @@
+/* ── UVA Orange hyperlinks; underline matches text color ── */
+.page__content a:not(.btn),
+.page__content a:visited:not(.btn) {
+  color: #E57200;                 /* UVA Orange text */
+  text-decoration-color: currentColor; /* underline same color as text */
+}
+
+.page__content a:hover:not(.btn) {
+  color: #E57200;                 /* UVA Orange on hover */
+  text-decoration-color: currentColor; /* underline follows text color */
+}
+
+.page__content a:active:not(.btn) {
+  color: #E57200;                 /* UVA Orange when active */
+  text-decoration-color: currentColor; /* underline follows text color */
+}
+
+/* Paper titles without a download link match the linked titles. */
+.page__content .paper-title {
+  color: #E57200;
+  text-decoration: underline;
+  text-decoration-color: currentColor;
+}
+
+/* ── Top navigation: exactly match main text color/opacity; UVA Orange on hover ── */
+
+/* Avoid theme dimming so we keep the same visual weight as body text */
+.greedy-nav .visible-links > li,
+.greedy-nav .hidden-links > li {
+  opacity: 1; /* don't stack extra opacity on top of body text's rgba */
+}
+
+/* ── Top-nav underline/indicator should match link color ── */
+.greedy-nav .visible-links > li > a,
+.greedy-nav .hidden-links > li > a,
+.masthead__menu-item a {
+  position: relative;
+  text-decoration-color: currentColor;     /* native underline = same color as text */
+  border-bottom-color: currentColor;       /* if theme uses border-bottom */
+  box-shadow: none;                        /* disable any grey inset underline */
+}
+
+/* If the theme draws the bar with ::after/::before, recolor it */
+.greedy-nav .visible-links > li > a::after,
+.greedy-nav .hidden-links > li > a::after,
+.masthead__menu-item a::after,
+.greedy-nav .visible-links > li > a::before,
+.greedy-nav .hidden-links > li > a::before,
+.masthead__menu-item a::before {
+  background-color: currentColor !important;
+  border-color: currentColor !important;
+}
+
+/* Default = same color/opacity as body text; hover = UVA Orange */
+.greedy-nav .visible-links > li > a,
+.greedy-nav .hidden-links > li > a,
+.masthead__menu-item a {
+  color: inherit;                          /* match main text (black + same opacity) */
+  transition: color 0.2s ease;
+}
+
+.greedy-nav .visible-links > li > a:hover,
+.greedy-nav .visible-links > li > a:focus,
+.greedy-nav .hidden-links > li > a:hover,
+.greedy-nav .hidden-links > li > a:focus,
+.masthead__menu-item a:hover,
+.masthead__menu-item a:focus {
+  color: #E57200;                          /* UVA Orange on hover */
+}

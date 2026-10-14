@@ -1,0 +1,50 @@
+# Personal website hosted on GitHub Pages.
+locale: en-US
+title: Francesco Ruggieri
+title_separator: "-"
+name: Francesco Ruggieri
+url: https://francescoruggieri.github.io
+baseurl: ""
+timezone: America/Los_Angeles
+
+include:
+  - _pages
+  - files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - vendor
+  - node_modules
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+permalink: /:categories/:title/
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
